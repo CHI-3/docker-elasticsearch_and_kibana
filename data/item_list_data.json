@@ -1,0 +1,20 @@
+{ "index" : {"_id" : "1" } }
+{"itemId":"1","itemName":"オーロラの布きれ", "itemNameKana":"オーロラノヌノキレ", "itemNameHira":"おーろらのぬのきれ"}
+{ "index" : {"_id" : "2" } }
+{"itemId":"2","itemName":"オリハルコン", "itemNameKana":"オリハルコン", "itemNameHira":"おりはるこん"}
+{ "index" : {"_id" : "3" } }
+{"itemId":"3","itemName":"超ふしぎなきのみ", "itemNameKana":"チョウフシギナキノミ", "itemNameHira":"ちょうふしぎなきのみ"}
+{ "index" : {"_id" : "4" } }
+{"itemId":"4","itemName":"せかいじゅの葉", "itemNameKana":"セカイジュノバ", "itemNameHira":"せかいじゅのば"}
+{ "index" : {"_id" : "5" } }
+{"itemId":"5","itemName":"ユグノア金貨", "itemNameKana":"ユグノアキンカ", "itemNameHira":"ゆぐのあきんか"}
+{ "index" : {"_id" : "6" } }
+{"itemId":"6","itemName":"かがみ石", "itemNameKana":"カガミイシ", "itemNameHira":"かがみいし"}
+{ "index" : {"_id" : "7" } }
+{"itemId":"7","itemName":"白い貝がら", "itemNameKana":"シロイカイガラ", "itemNameHira":"しろいかいがら"}
+{ "index" : {"_id" : "8" } }
+{"itemId":"8","itemName":"小さなこうら", "itemNameKana":"チイサナコウラ", "itemNameHira":"ちいさなこうら"}
+{ "index" : {"_id" : "9" } }
+{"itemId":"9","itemName":"天使のすず", "itemNameKana":"テンシノスズ", "itemNameHira":"てんしのすず"}
+{ "index" : {"_id" : "10" } }
+{"itemId":"10","itemName":"まだらくもいと", "itemNameKana":"マダラクモイト", "itemNameHira":"まだらくもいと"}

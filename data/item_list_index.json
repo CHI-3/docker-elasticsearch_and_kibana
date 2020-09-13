@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "my_kuromoji_analyzer": {
+          "type": "custom",
+          "tokenizer": "kuromoji_tokenizer",
+          "char_filter": [
+            "icu_normalizer",
+            "kuromoji_iteration_mark"
+          ],
+          "filter": [
+            "kuromoji_baseform",
+            "kuromoji_part_of_speech",
+            "kuromoji_stemmer",
+            "ngram"
+          ]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "itemId": {
+        "type": "integer"
+      },
+      "itemName": {
+        "type": "text",
+        "analyzer": "my_kuromoji_analyzer"
+      },
+      "itemNameKana": {
+        "type": "text",
+        "analyzer": "my_kuromoji_analyzer"
+      },
+      "itemNameHira": {
+        "type": "text",
+        "analyzer": "my_kuromoji_analyzer"
+      }
+    }
+  }
+}
